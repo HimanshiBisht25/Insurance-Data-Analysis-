@@ -1,2 +1,2 @@
-# Insurance-Data-Analysis-
+# Insurance data-Analysis-
 Insurance data analysis using Linear Regression
